@@ -3,5 +3,5 @@
 
 Project carried out at the University as a project of the Physics course. The intent is to simulate the path of the hubble telescope in Unity 3d.
 
-//Spanish:
+Spanish
 Proyecto realizado en la Universidad como proyecto del curso Física. La inteción es simular el trayecto del telecopio hubble en Unity 3d.
