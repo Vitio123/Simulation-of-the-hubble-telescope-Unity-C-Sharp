@@ -1,4 +1,4 @@
-# simulation-of-the-hubble-telescope-Unity---C Sharp-
+# simulation_of_the_hubble_telescope_Unity_C_Sharp
 ![Captaaaura](https://user-images.githubusercontent.com/24976219/60359106-ab0a3980-999d-11e9-8f12-fd0fd7f2ec94.PNG)
 
 Project carried out at the University as a project of the Physics course. The intent is to simulate the path of the hubble telescope in Unity 3d.
